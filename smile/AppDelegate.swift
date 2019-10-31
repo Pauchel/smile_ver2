@@ -2,14 +2,14 @@
 //  AppDelegate.swift
 //  smile
 //
-//  Created by 二宮啓 on 2019/05/16.
-//  Copyright © 2019 二宮啓. All rights reserved.
+//  Created by on 2019/05/16.
+//  Copyright © 2019 . All rights reserved.
 //
 
 import UIKit
 
 @UIApplicationMain
-class AppDelegate: UIResponder, UIApplicationDelegate {
+  class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
 

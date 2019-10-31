@@ -3,10 +3,67 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3701E3D122ECB813004A6888 /* hatena.png in Resources */ = {isa = PBXBuildFile; fileRef = 3701E3D022ECB813004A6888 /* hatena.png */; };
+		3710E1AD2317DEF800E8B436 /* iphonexsmax2.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 3710E1AC2317DEF800E8B436 /* iphonexsmax2.PNG */; };
+		373B74DB28ED27E59AE0FFF7 /* Pods_smileTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7D333453C380AC38DA71BA74 /* Pods_smileTests.framework */; };
+		3748E61B22BB777700993429 /* download.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3748E61A22BB777700993429 /* download.jpg */; };
+		37802C8122BB8FA7001B72F4 /* mig.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 37802C8022BB8FA7001B72F4 /* mig.jpg */; };
+		37802C8322BB8FD8001B72F4 /* images-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 37802C8222BB8FD8001B72F4 /* images-1.jpg */; };
+		37802C8522BB8FDE001B72F4 /* images-3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 37802C8422BB8FDE001B72F4 /* images-3.jpg */; };
+		37802C8722BB8FE2001B72F4 /* download-3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 37802C8622BB8FE2001B72F4 /* download-3.jpg */; };
+		37802C8922BB8FE7001B72F4 /* download-5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 37802C8822BB8FE7001B72F4 /* download-5.jpg */; };
+		37802C8B22BB8FEB001B72F4 /* download-4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 37802C8A22BB8FEB001B72F4 /* download-4.jpg */; };
+		37802C8D22BB8FEF001B72F4 /* images-2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 37802C8C22BB8FEF001B72F4 /* images-2.jpg */; };
+		37802C8F22BB8FF4001B72F4 /* download-2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 37802C8E22BB8FF4001B72F4 /* download-2.jpg */; };
+		37802C9122BB8FFA001B72F4 /* download-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 37802C9022BB8FFA001B72F4 /* download-1.jpg */; };
+		37802C9522C4BD7D001B72F4 /* EgaoHanteiPickerController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37802C9422C4BD7D001B72F4 /* EgaoHanteiPickerController.swift */; };
+		37802C9722C4CBA7001B72F4 /* BarButtenItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37802C9622C4CBA7001B72F4 /* BarButtenItemViewController.swift */; };
+		37802D2922C9F100001B72F4 /* iTunesArtwork@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802CEE22C9F100001B72F4 /* iTunesArtwork@1x.png */; };
+		37802D2A22C9F100001B72F4 /* Icon-App-76x76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802CF022C9F100001B72F4 /* Icon-App-76x76@2x.png */; };
+		37802D2B22C9F100001B72F4 /* Icon-App-29x29@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802CF122C9F100001B72F4 /* Icon-App-29x29@1x.png */; };
+		37802D2C22C9F100001B72F4 /* Icon-App-40x40@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802CF222C9F100001B72F4 /* Icon-App-40x40@1x.png */; };
+		37802D2D22C9F100001B72F4 /* Icon-App-20x20@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802CF322C9F100001B72F4 /* Icon-App-20x20@1x.png */; };
+		37802D2E22C9F100001B72F4 /* Icon-App-83.5x83.5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802CF422C9F100001B72F4 /* Icon-App-83.5x83.5@2x.png */; };
+		37802D2F22C9F100001B72F4 /* Icon-App-20x20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802CF522C9F100001B72F4 /* Icon-App-20x20@3x.png */; };
+		37802D3022C9F100001B72F4 /* ItunesArtwork@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802CF622C9F100001B72F4 /* ItunesArtwork@2x.png */; };
+		37802D3222C9F100001B72F4 /* Icon-App-20x20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802CF822C9F100001B72F4 /* Icon-App-20x20@2x.png */; };
+		37802D3322C9F100001B72F4 /* Icon-App-29x29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802CF922C9F100001B72F4 /* Icon-App-29x29@3x.png */; };
+		37802D3422C9F100001B72F4 /* Icon-App-40x40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802CFA22C9F100001B72F4 /* Icon-App-40x40@2x.png */; };
+		37802D3522C9F100001B72F4 /* Icon-App-60x60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802CFB22C9F100001B72F4 /* Icon-App-60x60@3x.png */; };
+		37802D3622C9F100001B72F4 /* Icon-App-60x60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802CFC22C9F100001B72F4 /* Icon-App-60x60@2x.png */; };
+		37802D3722C9F100001B72F4 /* Icon-App-76x76@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802CFD22C9F100001B72F4 /* Icon-App-76x76@1x.png */; };
+		37802D3822C9F100001B72F4 /* Icon-App-40x40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802CFE22C9F100001B72F4 /* Icon-App-40x40@3x.png */; };
+		37802D3922C9F100001B72F4 /* Icon-App-29x29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802CFF22C9F100001B72F4 /* Icon-App-29x29@2x.png */; };
+		37802D3C22C9F100001B72F4 /* iTunesArtwork@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802D0222C9F100001B72F4 /* iTunesArtwork@3x.png */; };
+		37802D4422C9F100001B72F4 /* icon-messages-app-iPhone-60x45@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802D1222C9F100001B72F4 /* icon-messages-app-iPhone-60x45@1x.png */; };
+		37802D4522C9F100001B72F4 /* icon-messages-app-iPadAir-67x50@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802D1322C9F100001B72F4 /* icon-messages-app-iPadAir-67x50@2x.png */; };
+		37802D4622C9F100001B72F4 /* icon-messages-app-store-1024x768.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802D1422C9F100001B72F4 /* icon-messages-app-store-1024x768.png */; };
+		37802D4722C9F100001B72F4 /* icon-messages-transcript-32x24@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802D1522C9F100001B72F4 /* icon-messages-transcript-32x24@3x.png */; };
+		37802D4822C9F100001B72F4 /* icon-messages-app-27x20@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802D1622C9F100001B72F4 /* icon-messages-app-27x20@1x.png */; };
+		37802D4922C9F100001B72F4 /* icon-messages-transcript-32x24@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802D1722C9F100001B72F4 /* icon-messages-transcript-32x24@2x.png */; };
+		37802D4A22C9F100001B72F4 /* icon-messages-app-27x20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802D1822C9F100001B72F4 /* icon-messages-app-27x20@2x.png */; };
+		37802D4B22C9F100001B72F4 /* icon-messages-transcript-32x24@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802D1922C9F100001B72F4 /* icon-messages-transcript-32x24@1x.png */; };
+		37802D4C22C9F100001B72F4 /* icon-messages-app-27x20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802D1A22C9F100001B72F4 /* icon-messages-app-27x20@3x.png */; };
+		37802D4D22C9F100001B72F4 /* icon-messages-app-iPadAir-74x55@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802D1B22C9F100001B72F4 /* icon-messages-app-iPadAir-74x55@2x.png */; };
+		37802D4E22C9F100001B72F4 /* icon-messages-app-iPhone-60x45@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802D1C22C9F100001B72F4 /* icon-messages-app-iPhone-60x45@3x.png */; };
+		37802D4F22C9F100001B72F4 /* icon-messages-app-iPhone-60x45@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802D1D22C9F100001B72F4 /* icon-messages-app-iPhone-60x45@2x.png */; };
+		37802D5022C9F100001B72F4 /* Icon-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802D2022C9F100001B72F4 /* Icon-40@2x.png */; };
+		37802D5122C9F100001B72F4 /* Icon-29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802D2122C9F100001B72F4 /* Icon-29@2x.png */; };
+		37802D5222C9F100001B72F4 /* Icon-44@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802D2222C9F100001B72F4 /* Icon-44@2x.png */; };
+		37802D5322C9F100001B72F4 /* Icon-29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802D2322C9F100001B72F4 /* Icon-29@3x.png */; };
+		37802D5422C9F100001B72F4 /* Icon-27.5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802D2422C9F100001B72F4 /* Icon-27.5@2x.png */; };
+		37802D5522C9F100001B72F4 /* Icon-86@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802D2522C9F100001B72F4 /* Icon-86@2x.png */; };
+		37802D5722C9F100001B72F4 /* Icon-98@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802D2722C9F100001B72F4 /* Icon-98@2x.png */; };
+		37802D5822C9F100001B72F4 /* Icon-24@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802D2822C9F100001B72F4 /* Icon-24@2x.png */; };
+		37802D6A22D81A4E001B72F4 /* gazou.png in Resources */ = {isa = PBXBuildFile; fileRef = 37802D6922D81A4E001B72F4 /* gazou.png */; };
+		379ADFD1232A434300CFBA30 /* CustomPhotoAlbum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 379ADFD0232A434300CFBA30 /* CustomPhotoAlbum.swift */; };
+		37D7B69323210A9000ABD861 /* iphonexsmax1copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 37D7B69223210A8F00ABD861 /* iphonexsmax1copy.png */; };
+		50C094F26B525359BB79517D /* Pods_smile.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 352D38CABBA5BC4EDA6886E9 /* Pods_smile.framework */; };
+		549686320EE08A64CF6FA679 /* Pods_smileUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DD7654ADE9305196151E98E5 /* Pods_smileUITests.framework */; };
 		9D6309E9228D6F940067BF13 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D6309E8228D6F940067BF13 /* AppDelegate.swift */; };
 		9D6309EB228D6F940067BF13 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D6309EA228D6F940067BF13 /* ViewController.swift */; };
 		9D6309EE228D6F940067BF13 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D6309EC228D6F940067BF13 /* Main.storyboard */; };
@@ -34,6 +91,68 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		352D38CABBA5BC4EDA6886E9 /* Pods_smile.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_smile.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3701E3D022ECB813004A6888 /* hatena.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = hatena.png; path = ../../../Downloads/hatena.png; sourceTree = "<group>"; };
+		3710E1AC2317DEF800E8B436 /* iphonexsmax2.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = iphonexsmax2.PNG; path = ../../iphonexsmax2.PNG; sourceTree = "<group>"; };
+		3748E61A22BB777700993429 /* download.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = download.jpg; sourceTree = "<group>"; };
+		37802C8022BB8FA7001B72F4 /* mig.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mig.jpg; sourceTree = "<group>"; };
+		37802C8222BB8FD8001B72F4 /* images-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "images-1.jpg"; sourceTree = "<group>"; };
+		37802C8422BB8FDE001B72F4 /* images-3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "images-3.jpg"; sourceTree = "<group>"; };
+		37802C8622BB8FE2001B72F4 /* download-3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "download-3.jpg"; sourceTree = "<group>"; };
+		37802C8822BB8FE7001B72F4 /* download-5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "download-5.jpg"; sourceTree = "<group>"; };
+		37802C8A22BB8FEB001B72F4 /* download-4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "download-4.jpg"; sourceTree = "<group>"; };
+		37802C8C22BB8FEF001B72F4 /* images-2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "images-2.jpg"; sourceTree = "<group>"; };
+		37802C8E22BB8FF4001B72F4 /* download-2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "download-2.jpg"; sourceTree = "<group>"; };
+		37802C9022BB8FFA001B72F4 /* download-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "download-1.jpg"; sourceTree = "<group>"; };
+		37802C9422C4BD7D001B72F4 /* EgaoHanteiPickerController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EgaoHanteiPickerController.swift; sourceTree = "<group>"; };
+		37802C9622C4CBA7001B72F4 /* BarButtenItemViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarButtenItemViewController.swift; sourceTree = "<group>"; };
+		37802CEE22C9F100001B72F4 /* iTunesArtwork@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iTunesArtwork@1x.png"; sourceTree = "<group>"; };
+		37802CF022C9F100001B72F4 /* Icon-App-76x76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-76x76@2x.png"; sourceTree = "<group>"; };
+		37802CF122C9F100001B72F4 /* Icon-App-29x29@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-29x29@1x.png"; sourceTree = "<group>"; };
+		37802CF222C9F100001B72F4 /* Icon-App-40x40@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-40x40@1x.png"; sourceTree = "<group>"; };
+		37802CF322C9F100001B72F4 /* Icon-App-20x20@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-20x20@1x.png"; sourceTree = "<group>"; };
+		37802CF422C9F100001B72F4 /* Icon-App-83.5x83.5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-83.5x83.5@2x.png"; sourceTree = "<group>"; };
+		37802CF522C9F100001B72F4 /* Icon-App-20x20@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-20x20@3x.png"; sourceTree = "<group>"; };
+		37802CF622C9F100001B72F4 /* ItunesArtwork@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ItunesArtwork@2x.png"; sourceTree = "<group>"; };
+		37802CF822C9F100001B72F4 /* Icon-App-20x20@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-20x20@2x.png"; sourceTree = "<group>"; };
+		37802CF922C9F100001B72F4 /* Icon-App-29x29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-29x29@3x.png"; sourceTree = "<group>"; };
+		37802CFA22C9F100001B72F4 /* Icon-App-40x40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-40x40@2x.png"; sourceTree = "<group>"; };
+		37802CFB22C9F100001B72F4 /* Icon-App-60x60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-60x60@3x.png"; sourceTree = "<group>"; };
+		37802CFC22C9F100001B72F4 /* Icon-App-60x60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-60x60@2x.png"; sourceTree = "<group>"; };
+		37802CFD22C9F100001B72F4 /* Icon-App-76x76@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-76x76@1x.png"; sourceTree = "<group>"; };
+		37802CFE22C9F100001B72F4 /* Icon-App-40x40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-40x40@3x.png"; sourceTree = "<group>"; };
+		37802CFF22C9F100001B72F4 /* Icon-App-29x29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-29x29@2x.png"; sourceTree = "<group>"; };
+		37802D0222C9F100001B72F4 /* iTunesArtwork@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iTunesArtwork@3x.png"; sourceTree = "<group>"; };
+		37802D1222C9F100001B72F4 /* icon-messages-app-iPhone-60x45@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-messages-app-iPhone-60x45@1x.png"; sourceTree = "<group>"; };
+		37802D1322C9F100001B72F4 /* icon-messages-app-iPadAir-67x50@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-messages-app-iPadAir-67x50@2x.png"; sourceTree = "<group>"; };
+		37802D1422C9F100001B72F4 /* icon-messages-app-store-1024x768.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-messages-app-store-1024x768.png"; sourceTree = "<group>"; };
+		37802D1522C9F100001B72F4 /* icon-messages-transcript-32x24@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-messages-transcript-32x24@3x.png"; sourceTree = "<group>"; };
+		37802D1622C9F100001B72F4 /* icon-messages-app-27x20@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-messages-app-27x20@1x.png"; sourceTree = "<group>"; };
+		37802D1722C9F100001B72F4 /* icon-messages-transcript-32x24@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-messages-transcript-32x24@2x.png"; sourceTree = "<group>"; };
+		37802D1822C9F100001B72F4 /* icon-messages-app-27x20@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-messages-app-27x20@2x.png"; sourceTree = "<group>"; };
+		37802D1922C9F100001B72F4 /* icon-messages-transcript-32x24@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-messages-transcript-32x24@1x.png"; sourceTree = "<group>"; };
+		37802D1A22C9F100001B72F4 /* icon-messages-app-27x20@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-messages-app-27x20@3x.png"; sourceTree = "<group>"; };
+		37802D1B22C9F100001B72F4 /* icon-messages-app-iPadAir-74x55@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-messages-app-iPadAir-74x55@2x.png"; sourceTree = "<group>"; };
+		37802D1C22C9F100001B72F4 /* icon-messages-app-iPhone-60x45@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-messages-app-iPhone-60x45@3x.png"; sourceTree = "<group>"; };
+		37802D1D22C9F100001B72F4 /* icon-messages-app-iPhone-60x45@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-messages-app-iPhone-60x45@2x.png"; sourceTree = "<group>"; };
+		37802D2022C9F100001B72F4 /* Icon-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40@2x.png"; sourceTree = "<group>"; };
+		37802D2122C9F100001B72F4 /* Icon-29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-29@2x.png"; sourceTree = "<group>"; };
+		37802D2222C9F100001B72F4 /* Icon-44@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-44@2x.png"; sourceTree = "<group>"; };
+		37802D2322C9F100001B72F4 /* Icon-29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-29@3x.png"; sourceTree = "<group>"; };
+		37802D2422C9F100001B72F4 /* Icon-27.5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-27.5@2x.png"; sourceTree = "<group>"; };
+		37802D2522C9F100001B72F4 /* Icon-86@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-86@2x.png"; sourceTree = "<group>"; };
+		37802D2722C9F100001B72F4 /* Icon-98@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-98@2x.png"; sourceTree = "<group>"; };
+		37802D2822C9F100001B72F4 /* Icon-24@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-24@2x.png"; sourceTree = "<group>"; };
+		37802D6922D81A4E001B72F4 /* gazou.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = gazou.png; path = ../../gazou.png; sourceTree = "<group>"; };
+		379ADFD0232A434300CFBA30 /* CustomPhotoAlbum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomPhotoAlbum.swift; sourceTree = "<group>"; };
+		37D7B69223210A8F00ABD861 /* iphonexsmax1copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iphonexsmax1copy.png; sourceTree = "<group>"; };
+		4ADFB4CA23010145F9263688 /* Pods-smile.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-smile.release.xcconfig"; path = "Target Support Files/Pods-smile/Pods-smile.release.xcconfig"; sourceTree = "<group>"; };
+		4C6183777F73B7435FA71E47 /* Pods-smileTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-smileTests.debug.xcconfig"; path = "Target Support Files/Pods-smileTests/Pods-smileTests.debug.xcconfig"; sourceTree = "<group>"; };
+		56D7AC064C2A6441ACC59B59 /* Pods-smileUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-smileUITests.release.xcconfig"; path = "Target Support Files/Pods-smileUITests/Pods-smileUITests.release.xcconfig"; sourceTree = "<group>"; };
+		618EDCC1938972F0A91E77CA /* Pods-smile.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-smile.debug.xcconfig"; path = "Target Support Files/Pods-smile/Pods-smile.debug.xcconfig"; sourceTree = "<group>"; };
+		6519B92C94822D3CE2DA92DC /* Pods-smileUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-smileUITests.debug.xcconfig"; path = "Target Support Files/Pods-smileUITests/Pods-smileUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		780C01C1FB44F5A789B0749A /* Pods-smileTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-smileTests.release.xcconfig"; path = "Target Support Files/Pods-smileTests/Pods-smileTests.release.xcconfig"; sourceTree = "<group>"; };
+		7D333453C380AC38DA71BA74 /* Pods_smileTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_smileTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D6309E5228D6F940067BF13 /* smile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = smile.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D6309E8228D6F940067BF13 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9D6309EA228D6F940067BF13 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +166,7 @@
 		9D630A04228D6F950067BF13 /* smileUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = smileUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D630A08228D6F950067BF13 /* smileUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = smileUITests.swift; sourceTree = "<group>"; };
 		9D630A0A228D6F950067BF13 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DD7654ADE9305196151E98E5 /* Pods_smileUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_smileUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +174,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				50C094F26B525359BB79517D /* Pods_smile.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +182,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				373B74DB28ED27E59AE0FFF7 /* Pods_smileTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,12 +190,127 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				549686320EE08A64CF6FA679 /* Pods_smileUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		37802CEC22C9F100001B72F4 /* 0701smile picker アイコン */ = {
+			isa = PBXGroup;
+			children = (
+				37802CED22C9F100001B72F4 /* ios */,
+				37802D1122C9F100001B72F4 /* imessenger */,
+				37802D1E22C9F100001B72F4 /* watchkit */,
+			);
+			path = "0701smile picker アイコン";
+			sourceTree = "<group>";
+		};
+		37802CED22C9F100001B72F4 /* ios */ = {
+			isa = PBXGroup;
+			children = (
+				37802CEE22C9F100001B72F4 /* iTunesArtwork@1x.png */,
+				37802CEF22C9F100001B72F4 /* AppIcon.appiconset */,
+				37802D0222C9F100001B72F4 /* iTunesArtwork@3x.png */,
+			);
+			path = ios;
+			sourceTree = "<group>";
+		};
+		37802CEF22C9F100001B72F4 /* AppIcon.appiconset */ = {
+			isa = PBXGroup;
+			children = (
+				37802CF022C9F100001B72F4 /* Icon-App-76x76@2x.png */,
+				37802CF122C9F100001B72F4 /* Icon-App-29x29@1x.png */,
+				37802CF222C9F100001B72F4 /* Icon-App-40x40@1x.png */,
+				37802CF322C9F100001B72F4 /* Icon-App-20x20@1x.png */,
+				37802CF422C9F100001B72F4 /* Icon-App-83.5x83.5@2x.png */,
+				37802CF522C9F100001B72F4 /* Icon-App-20x20@3x.png */,
+				37802CF622C9F100001B72F4 /* ItunesArtwork@2x.png */,
+				37802CF822C9F100001B72F4 /* Icon-App-20x20@2x.png */,
+				37802CF922C9F100001B72F4 /* Icon-App-29x29@3x.png */,
+				37802CFA22C9F100001B72F4 /* Icon-App-40x40@2x.png */,
+				37802CFB22C9F100001B72F4 /* Icon-App-60x60@3x.png */,
+				37802CFC22C9F100001B72F4 /* Icon-App-60x60@2x.png */,
+				37802CFD22C9F100001B72F4 /* Icon-App-76x76@1x.png */,
+				37802CFE22C9F100001B72F4 /* Icon-App-40x40@3x.png */,
+				37802CFF22C9F100001B72F4 /* Icon-App-29x29@2x.png */,
+			);
+			path = AppIcon.appiconset;
+			sourceTree = "<group>";
+		};
+		37802D1122C9F100001B72F4 /* imessenger */ = {
+			isa = PBXGroup;
+			children = (
+				37802D1222C9F100001B72F4 /* icon-messages-app-iPhone-60x45@1x.png */,
+				37802D1322C9F100001B72F4 /* icon-messages-app-iPadAir-67x50@2x.png */,
+				37802D1422C9F100001B72F4 /* icon-messages-app-store-1024x768.png */,
+				37802D1522C9F100001B72F4 /* icon-messages-transcript-32x24@3x.png */,
+				37802D1622C9F100001B72F4 /* icon-messages-app-27x20@1x.png */,
+				37802D1722C9F100001B72F4 /* icon-messages-transcript-32x24@2x.png */,
+				37802D1822C9F100001B72F4 /* icon-messages-app-27x20@2x.png */,
+				37802D1922C9F100001B72F4 /* icon-messages-transcript-32x24@1x.png */,
+				37802D1A22C9F100001B72F4 /* icon-messages-app-27x20@3x.png */,
+				37802D1B22C9F100001B72F4 /* icon-messages-app-iPadAir-74x55@2x.png */,
+				37802D1C22C9F100001B72F4 /* icon-messages-app-iPhone-60x45@3x.png */,
+				37802D1D22C9F100001B72F4 /* icon-messages-app-iPhone-60x45@2x.png */,
+			);
+			path = imessenger;
+			sourceTree = "<group>";
+		};
+		37802D1E22C9F100001B72F4 /* watchkit */ = {
+			isa = PBXGroup;
+			children = (
+				37802D1F22C9F100001B72F4 /* AppIcon.appiconset */,
+			);
+			path = watchkit;
+			sourceTree = "<group>";
+		};
+		37802D1F22C9F100001B72F4 /* AppIcon.appiconset */ = {
+			isa = PBXGroup;
+			children = (
+				37802D2022C9F100001B72F4 /* Icon-40@2x.png */,
+				37802D2122C9F100001B72F4 /* Icon-29@2x.png */,
+				37802D2222C9F100001B72F4 /* Icon-44@2x.png */,
+				37802D2322C9F100001B72F4 /* Icon-29@3x.png */,
+				37802D2422C9F100001B72F4 /* Icon-27.5@2x.png */,
+				37802D2522C9F100001B72F4 /* Icon-86@2x.png */,
+				37802D2722C9F100001B72F4 /* Icon-98@2x.png */,
+				37802D2822C9F100001B72F4 /* Icon-24@2x.png */,
+			);
+			path = AppIcon.appiconset;
+			sourceTree = "<group>";
+		};
+		3D30D81CCF22161C884AA7A9 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				618EDCC1938972F0A91E77CA /* Pods-smile.debug.xcconfig */,
+				4ADFB4CA23010145F9263688 /* Pods-smile.release.xcconfig */,
+				4C6183777F73B7435FA71E47 /* Pods-smileTests.debug.xcconfig */,
+				780C01C1FB44F5A789B0749A /* Pods-smileTests.release.xcconfig */,
+				6519B92C94822D3CE2DA92DC /* Pods-smileUITests.debug.xcconfig */,
+				56D7AC064C2A6441ACC59B59 /* Pods-smileUITests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		9D24A103229C22AB00FCE094 /* img */ = {
+			isa = PBXGroup;
+			children = (
+				37802C8022BB8FA7001B72F4 /* mig.jpg */,
+				3748E61A22BB777700993429 /* download.jpg */,
+				37802C8222BB8FD8001B72F4 /* images-1.jpg */,
+				37802C8E22BB8FF4001B72F4 /* download-2.jpg */,
+				37802C8422BB8FDE001B72F4 /* images-3.jpg */,
+				37802C9022BB8FFA001B72F4 /* download-1.jpg */,
+				37802C8822BB8FE7001B72F4 /* download-5.jpg */,
+				37802C8622BB8FE2001B72F4 /* download-3.jpg */,
+				37802C8C22BB8FEF001B72F4 /* images-2.jpg */,
+				37802C8A22BB8FEB001B72F4 /* download-4.jpg */,
+			);
+			path = img;
+			sourceTree = "<group>";
+		};
 		9D6309DC228D6F940067BF13 = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +318,8 @@
 				9D6309FC228D6F950067BF13 /* smileTests */,
 				9D630A07228D6F950067BF13 /* smileUITests */,
 				9D6309E6228D6F940067BF13 /* Products */,
+				3D30D81CCF22161C884AA7A9 /* Pods */,
+				AB17C4F779475F3C5FA0B978 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,12 +336,21 @@
 		9D6309E7228D6F940067BF13 /* smile */ = {
 			isa = PBXGroup;
 			children = (
+				9D24A103229C22AB00FCE094 /* img */,
 				9D6309E8228D6F940067BF13 /* AppDelegate.swift */,
 				9D6309EA228D6F940067BF13 /* ViewController.swift */,
+				37802C9422C4BD7D001B72F4 /* EgaoHanteiPickerController.swift */,
+				37802C9622C4CBA7001B72F4 /* BarButtenItemViewController.swift */,
+				379ADFD0232A434300CFBA30 /* CustomPhotoAlbum.swift */,
 				9D6309EC228D6F940067BF13 /* Main.storyboard */,
 				9D6309EF228D6F950067BF13 /* Assets.xcassets */,
 				9D6309F1228D6F950067BF13 /* LaunchScreen.storyboard */,
 				9D6309F4228D6F950067BF13 /* Info.plist */,
+				3701E3D022ECB813004A6888 /* hatena.png */,
+				37D7B69223210A8F00ABD861 /* iphonexsmax1copy.png */,
+				3710E1AC2317DEF800E8B436 /* iphonexsmax2.PNG */,
+				37802D6922D81A4E001B72F4 /* gazou.png */,
+				37802CEC22C9F100001B72F4 /* 0701smile picker アイコン */,
 			);
 			path = smile;
 			sourceTree = "<group>";
@@ -125,6 +373,16 @@
 			path = smileUITests;
 			sourceTree = "<group>";
 		};
+		AB17C4F779475F3C5FA0B978 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				352D38CABBA5BC4EDA6886E9 /* Pods_smile.framework */,
+				7D333453C380AC38DA71BA74 /* Pods_smileTests.framework */,
+				DD7654ADE9305196151E98E5 /* Pods_smileUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -132,9 +390,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 9D630A0D228D6F950067BF13 /* Build configuration list for PBXNativeTarget "smile" */;
 			buildPhases = (
+				D4BF97CF8934302719D7C547 /* [CP] Check Pods Manifest.lock */,
 				9D6309E1228D6F940067BF13 /* Sources */,
 				9D6309E2228D6F940067BF13 /* Frameworks */,
 				9D6309E3228D6F940067BF13 /* Resources */,
+				9BF6341F094F46091F263DC6 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -149,6 +409,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 9D630A10228D6F950067BF13 /* Build configuration list for PBXNativeTarget "smileTests" */;
 			buildPhases = (
+				326A99BFC53088C69BCED681 /* [CP] Check Pods Manifest.lock */,
 				9D6309F5228D6F950067BF13 /* Sources */,
 				9D6309F6228D6F950067BF13 /* Frameworks */,
 				9D6309F7228D6F950067BF13 /* Resources */,
@@ -167,6 +428,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 9D630A13228D6F950067BF13 /* Build configuration list for PBXNativeTarget "smileUITests" */;
 			buildPhases = (
+				52F7F9A8D742B7673F043203 /* [CP] Check Pods Manifest.lock */,
 				9D630A00228D6F950067BF13 /* Sources */,
 				9D630A01228D6F950067BF13 /* Frameworks */,
 				9D630A02228D6F950067BF13 /* Resources */,
@@ -229,9 +491,60 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				37802D4722C9F100001B72F4 /* icon-messages-transcript-32x24@3x.png in Resources */,
+				37802D4C22C9F100001B72F4 /* icon-messages-app-27x20@3x.png in Resources */,
+				3701E3D122ECB813004A6888 /* hatena.png in Resources */,
+				37802D4F22C9F100001B72F4 /* icon-messages-app-iPhone-60x45@2x.png in Resources */,
+				37802D4622C9F100001B72F4 /* icon-messages-app-store-1024x768.png in Resources */,
+				37802D6A22D81A4E001B72F4 /* gazou.png in Resources */,
+				37802C8F22BB8FF4001B72F4 /* download-2.jpg in Resources */,
+				37802C8922BB8FE7001B72F4 /* download-5.jpg in Resources */,
+				37802D2A22C9F100001B72F4 /* Icon-App-76x76@2x.png in Resources */,
+				37802D2F22C9F100001B72F4 /* Icon-App-20x20@3x.png in Resources */,
+				37802D4B22C9F100001B72F4 /* icon-messages-transcript-32x24@1x.png in Resources */,
+				37802D5222C9F100001B72F4 /* Icon-44@2x.png in Resources */,
+				37802D2B22C9F100001B72F4 /* Icon-App-29x29@1x.png in Resources */,
+				37802D4E22C9F100001B72F4 /* icon-messages-app-iPhone-60x45@3x.png in Resources */,
+				37802D3822C9F100001B72F4 /* Icon-App-40x40@3x.png in Resources */,
+				37802D5522C9F100001B72F4 /* Icon-86@2x.png in Resources */,
+				37802D3422C9F100001B72F4 /* Icon-App-40x40@2x.png in Resources */,
+				37802D3322C9F100001B72F4 /* Icon-App-29x29@3x.png in Resources */,
+				37802D3022C9F100001B72F4 /* ItunesArtwork@2x.png in Resources */,
+				37802D5422C9F100001B72F4 /* Icon-27.5@2x.png in Resources */,
 				9D6309F3228D6F950067BF13 /* LaunchScreen.storyboard in Resources */,
+				37802D2E22C9F100001B72F4 /* Icon-App-83.5x83.5@2x.png in Resources */,
+				37802D2D22C9F100001B72F4 /* Icon-App-20x20@1x.png in Resources */,
+				37802D4522C9F100001B72F4 /* icon-messages-app-iPadAir-67x50@2x.png in Resources */,
+				37802D2C22C9F100001B72F4 /* Icon-App-40x40@1x.png in Resources */,
+				37802C8522BB8FDE001B72F4 /* images-3.jpg in Resources */,
+				37802D3C22C9F100001B72F4 /* iTunesArtwork@3x.png in Resources */,
+				37802D5322C9F100001B72F4 /* Icon-29@3x.png in Resources */,
+				37802D4D22C9F100001B72F4 /* icon-messages-app-iPadAir-74x55@2x.png in Resources */,
+				37802C9122BB8FFA001B72F4 /* download-1.jpg in Resources */,
 				9D6309F0228D6F950067BF13 /* Assets.xcassets in Resources */,
+				37802C8B22BB8FEB001B72F4 /* download-4.jpg in Resources */,
+				37802D4A22C9F100001B72F4 /* icon-messages-app-27x20@2x.png in Resources */,
+				37802C8D22BB8FEF001B72F4 /* images-2.jpg in Resources */,
+				37802D3622C9F100001B72F4 /* Icon-App-60x60@2x.png in Resources */,
+				3710E1AD2317DEF800E8B436 /* iphonexsmax2.PNG in Resources */,
+				37802D3922C9F100001B72F4 /* Icon-App-29x29@2x.png in Resources */,
+				37802C8122BB8FA7001B72F4 /* mig.jpg in Resources */,
+				37802D4922C9F100001B72F4 /* icon-messages-transcript-32x24@2x.png in Resources */,
+				37802D5022C9F100001B72F4 /* Icon-40@2x.png in Resources */,
+				37802D3522C9F100001B72F4 /* Icon-App-60x60@3x.png in Resources */,
+				37802D4822C9F100001B72F4 /* icon-messages-app-27x20@1x.png in Resources */,
+				37802D4422C9F100001B72F4 /* icon-messages-app-iPhone-60x45@1x.png in Resources */,
+				37802D3222C9F100001B72F4 /* Icon-App-20x20@2x.png in Resources */,
+				37802D5122C9F100001B72F4 /* Icon-29@2x.png in Resources */,
+				37802D5822C9F100001B72F4 /* Icon-24@2x.png in Resources */,
 				9D6309EE228D6F940067BF13 /* Main.storyboard in Resources */,
+				37802D3722C9F100001B72F4 /* Icon-App-76x76@1x.png in Resources */,
+				37802D2922C9F100001B72F4 /* iTunesArtwork@1x.png in Resources */,
+				37802C8722BB8FE2001B72F4 /* download-3.jpg in Resources */,
+				3748E61B22BB777700993429 /* download.jpg in Resources */,
+				37802C8322BB8FD8001B72F4 /* images-1.jpg in Resources */,
+				37802D5722C9F100001B72F4 /* Icon-98@2x.png in Resources */,
+				37D7B69323210A9000ABD861 /* iphonexsmax1copy.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,13 +564,102 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		326A99BFC53088C69BCED681 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-smileTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		52F7F9A8D742B7673F043203 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-smileUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9BF6341F094F46091F263DC6 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-smile/Pods-smile-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-smile/Pods-smile-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-smile/Pods-smile-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D4BF97CF8934302719D7C547 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-smile-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		9D6309E1228D6F940067BF13 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				9D6309EB228D6F940067BF13 /* ViewController.swift in Sources */,
+				37802C9722C4CBA7001B72F4 /* BarButtenItemViewController.swift in Sources */,
 				9D6309E9228D6F940067BF13 /* AppDelegate.swift in Sources */,
+				379ADFD1232A434300CFBA30 /* CustomPhotoAlbum.swift in Sources */,
+				37802C9522C4BD7D001B72F4 /* EgaoHanteiPickerController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -430,40 +832,45 @@
 		};
 		9D630A0E228D6F950067BF13 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 618EDCC1938972F0A91E77CA /* Pods-smile.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = TC9QT2UW4A;
 				INFOPLIST_FILE = smile/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.smile;
+				PRODUCT_BUNDLE_IDENTIFIER = com.litech.smile;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
 		9D630A0F228D6F950067BF13 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4ADFB4CA23010145F9263688 /* Pods-smile.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = TC9QT2UW4A;
 				INFOPLIST_FILE = smile/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.smile;
+				PRODUCT_BUNDLE_IDENTIFIER = com.litech.smile;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
 		9D630A11228D6F950067BF13 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4C6183777F73B7435FA71E47 /* Pods-smileTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -484,6 +891,7 @@
 		};
 		9D630A12228D6F950067BF13 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 780C01C1FB44F5A789B0749A /* Pods-smileTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -504,6 +912,7 @@
 		};
 		9D630A14228D6F950067BF13 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6519B92C94822D3CE2DA92DC /* Pods-smileUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -523,6 +932,7 @@
 		};
 		9D630A15228D6F950067BF13 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 56D7AC064C2A6441ACC59B59 /* Pods-smileUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
